@@ -1,0 +1,18 @@
+section {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  justify-content: space-evenly;
+}
+
+#article1 {
+  border: 1px solid blue;
+  width: 40%;
+  height: 20px;
+}
+
+#article2 {
+  border: 1px solid purple;
+  width: 40%;
+  height: 20px;
+}
