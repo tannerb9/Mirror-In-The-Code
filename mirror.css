@@ -1,5 +1,6 @@
 section {
   display: flex;
+  overflow-wrap: break-word;
 }
 
 #article1 {
